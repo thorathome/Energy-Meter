@@ -188,7 +188,7 @@ void loop()
   temp1 = sensorIC1.GetTemperature();
   temp2 = sensorIC2.GetTemperature();
 
-  Serial.println ( "\n          IC1          IC2" ); 
+  Serial.println ( "\n          IC1           IC2" ); 
 
   Serial.print ( "Temp: " ); 
   printPad ( temp1 ); 
