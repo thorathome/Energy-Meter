@@ -175,7 +175,7 @@ void loop()
   Serial.println ( "Sys Status IC1:   S0:0x" + String ( sys0_1, HEX ) + " S1:0x" + String ( sys1_1, HEX ) );
   Serial.println ( "Meter Status IC1: E0:0x" + String ( en0_1, HEX  ) + " E1:0x" + String ( en1_1, HEX ) );
 
-  Serial.println  ("Sys Status IC2:   S0:0x" + String ( sys0_2, HEX ) + " S1:0x" + String ( sys1_2, HEX ) );
+  Serial.println ( "Sys Status IC2:   S0:0x" + String ( sys0_2, HEX ) + " S1:0x" + String ( sys1_2, HEX ) );
   Serial.println ( "Meter Status IC2: E0:0x" + String ( en0_2, HEX  ) + " E1:0x" + String ( en1_2, HEX ) );
   delay(10);
 
