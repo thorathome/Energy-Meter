@@ -10,7 +10,7 @@ Software for CircuitSetup's 6-Channel EnergyMeter
     calculates Watt-Hours for each channel, and 
     Serial.prints out the values for each channel in a formatted table. 
 
-    It does nothing more, nothinbg less.  
+    It does nothing more, nothing less.  
 
     You have my permission to use this code free of charge. 
     https://github.com/thorathome/Energy-Meter/blob/main/Energy_Meter_Basic_Setup
@@ -36,7 +36,7 @@ Software for CircuitSetup's 6-Channel EnergyMeter
     Read info here on US 220 VAC power monitoring
     https://esphome.io/components/sensor/atm90e32.html#voltage
 
-    Read here for better understanding of VApower, RealPower and Power Factor
+    Read here for better understanding of VApower, RealPower, and Power Factor
     ALL of which are calculated by this marvelous board.  
     Short article
     https://www.apc.com/us/en/solutions/industry-insights/watts-vs-va-whats-difference-anyway.jsp
