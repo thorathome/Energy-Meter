@@ -9,7 +9,7 @@
     calculates Watt-Hours for each channel, and 
     Serial.prints out the values for each channel in a formatted table. 
 
-    It does nothing more, nothinbg less.  
+    It does nothing more, nothing less.  
 
     You have my permission to use this code free of charge. 
     https://github.com/thorathome/Energy-Meter/blob/main/Energy_Meter_Basic_Setup
