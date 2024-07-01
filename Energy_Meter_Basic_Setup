@@ -1,4 +1,4 @@
-#define SKETCH_NAME "Power_Meter_Basic_Startup"
+#define SKETCH_NAME "Energy_Meter_Basic_Startup"
 #define SERIAL_SPEED 230400
 
 /*  This is a Get Started Arduino sketch for an ESP32 
