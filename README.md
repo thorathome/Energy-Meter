@@ -1,4 +1,5 @@
-# Energy-Meter
+# CircuitSetup 6-Channel Energy-Meter
+
 Software for CircuitSetup's 6-Channel EnergyMeter
 
     This is a Get Started Arduino sketch for an ESP32 
